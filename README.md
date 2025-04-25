@@ -1,9 +1,9 @@
 <!-- Profil Banner GIF -->
 <p align="center">
   <img 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXExNWd4eHZ1aWkwNzhvYmphdGJpcTg5bWF0dXhkMzl5MjhhcjBpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggK04fdPVARRtH8w7G/giphy.gif"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY1ZGxldGhhYXN0aThmeWFja2FmaG5lbWJ1aW1jcjBvcGRzdjVnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
     alt="Coder GIF"
-    height="400"
+    height="375"
     style="max-width: 100%; display: inline-block;"
   />
 </p>
