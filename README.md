@@ -20,16 +20,16 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=RidvanOzturk&show_icons=true&theme=radical" 
-    alt="Ridvan's GitHub Stats" 
-    height="180"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RidvanOzturk&show_icons=true&theme=radical&hide_border=true"
+    alt="Ridvan's GitHub Stats"
+    width="420" height="180"
   />
   &nbsp;&nbsp;
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidvanOzturk&layout=compact&theme=radical" 
-    alt="Most Used Languages" 
-    height="180"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidvanOzturk&layout=compact&theme=radical&hide_border=true&card_width=420"
+    alt="Most Used Languages"
+    width="420" height="180"
   />
 </p>
 
