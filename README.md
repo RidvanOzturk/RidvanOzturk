@@ -19,19 +19,24 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RidvanOzturk&show_icons=true&theme=radical&hide_border=true"
-    alt="Ridvan's GitHub Stats"
-    style="width:48%; max-width:420px; height:180px; display:inline-block;"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidvanOzturk&layout=compact&theme=radical&hide_border=true&card_width=420"
-    alt="Most Used Languages"
-    style="width:48%; max-width:420px; height:180px; display:inline-block;"
-  />
-</p>
-
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=RidvanOzturk&show_icons=true&theme=radical&hide_border=true"
+        alt="Ridvan's GitHub Stats"
+        width="380" height="180"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidvanOzturk&layout=compact&theme=radical&hide_border=true&card_width=380"
+        alt="Most Used Languages"
+        width="380" height="180"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
