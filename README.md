@@ -23,13 +23,12 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=RidvanOzturk&show_icons=true&theme=radical&hide_border=true"
     alt="Ridvan's GitHub Stats"
-    width="420" height="180"
+    style="width:48%; max-width:420px; height:180px; display:inline-block;"
   />
-  &nbsp;&nbsp;
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidvanOzturk&layout=compact&theme=radical&hide_border=true&card_width=420"
     alt="Most Used Languages"
-    width="420" height="180"
+    style="width:48%; max-width:420px; height:180px; display:inline-block;"
   />
 </p>
 
