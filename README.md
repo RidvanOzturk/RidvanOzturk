@@ -19,28 +19,22 @@
 
 ### 📊 GitHub Stats:
 
-<table align="center" border="0" cellspacing="0" cellpadding="0"
-       style="border-collapse:collapse; border:none;">
-  <tr>
-    <td style="border:none; padding:0 8px 0 0;">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=RidvanOzturk&show_icons=true&theme=radical&hide_border=true"
-        alt="Ridvan's GitHub Stats"
-        width="380" height="180"
-      />
-    </td>
-    <td style="border:none; padding:0 0 0 8px;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidvanOzturk&layout=compact&theme=radical&hide_border=true&card_width=380"
-        alt="Most Used Languages"
-        width="380" height="180"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RidvanOzturk&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="Ridvan's GitHub Stats"
+    height="180"
+    style="max-width: 100%;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidvanOzturk&layout=compact&theme=radical&hide_border=true&card_width=380&cache_seconds=86400"
+    alt="Most Used Languages"
+    height="180"
+    style="max-width: 100%;"
+  />
+</p>
 
 ---
-
 
 <div align="center">
   <h3 align="center">Contact Me:</h3>
