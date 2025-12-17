@@ -17,24 +17,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RidvanOzturk&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&v=2"
-    alt="Ridvan's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RidvanOzturk&layout=compact&theme=radical&hide_border=true&card_width=380&cache_seconds=86400&v=2"
-    alt="Most Used Languages"
-    height="180"
-  />
-</p>
-
-
----
-
 <div align="center">
   <h3 align="center">Contact Me:</h3>
    <a href="https://www.linkedin.com/in/ridvan-ozturk" target="_blank">
