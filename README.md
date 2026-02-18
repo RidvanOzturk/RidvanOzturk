@@ -20,26 +20,27 @@
 <div align="center">
   <h3>Contact Me:</h3>
 
-  <a href="https://www.linkedin.com/in/ridvan-ozturk">
-    <img align="middle" height="32" width="32" alt="LinkedIn"
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/ridvan-ozturk" style="text-decoration:none; font-size:0;">
+    <img height="32" width="32" alt="LinkedIn"
+      src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ozturkrdvan/">
-    <img align="middle" height="32" width="32" alt="Instagram"
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />
+  <a href="https://www.instagram.com/ozturkrdvan/" style="text-decoration:none; font-size:0;">
+    <img height="32" width="32" alt="Instagram"
+      src="https://cdn.simpleicons.org/instagram/E4405F" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@ridvan-ozturk">
-    <img align="middle" height="32" width="32" alt="Medium"
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" />
+  <a href="https://medium.com/@ridvan-ozturk" style="text-decoration:none; font-size:0;">
+    <img height="32" width="32" alt="Medium"
+      src="https://cdn.simpleicons.org/medium/000000" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.codewars.com/users/RidvanOzturk">
-    <img align="middle" height="32" width="32" alt="Codewars"
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codewars.svg" />
+  <a href="https://www.codewars.com/users/RidvanOzturk" style="text-decoration:none; font-size:0;">
+    <img height="32" width="32" alt="Codewars"
+      src="https://cdn.simpleicons.org/codewars/B1361E" />
   </a>
 </div>
+
 
 
 
