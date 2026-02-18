@@ -19,16 +19,25 @@
 
 <div align="center">
   <h3 align="center">Contact Me:</h3>
-   <a href="https://www.linkedin.com/in/ridvan-ozturk" target="_blank">
-    <img height="30" width="40" style="display:inline-block" src="https://camo.githubusercontent.com/63c5628475bc11d3e5262b303261fcdb3d43a5f2a19b99eba7ce3b80cd0d0abc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" />
+
+  <a href="https://www.linkedin.com/in/ridvan-ozturk">
+    <img height="30" width="40" alt="LinkedIn"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@16.9.0/icons/linkedin.svg" />
   </a>
-  <a href="https://www.instagram.com/ozturkrdvan/" target="_blank">
-    <img height="30" width="40" style="display:inline-block" src="https://camo.githubusercontent.com/57b262a80624af91ef759c7fb2a8c14168a928184e1d10f90f424e09c68b55f7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f696e7374616772616d2e737667" />
+
+  <a href="https://www.instagram.com/ozturkrdvan/">
+    <img height="30" width="40" alt="Instagram"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@16.9.0/icons/instagram.svg" />
   </a>
-  <a href="https://medium.com/@ridvan-ozturk" target="_blank">
-    <img height="30" width="40" style="display:inline-block" src="https://camo.githubusercontent.com/a3766ba863362364110ce821de8ffc7a77bdf75d39ad6483666f0f1a31ffc356/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6d656469756d2e737667" />
+
+  <a href="https://medium.com/@ridvan-ozturk">
+    <img height="30" width="40" alt="Medium"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@16.9.0/icons/medium.svg" />
   </a>
-  <a href="https://www.codewars.com/users/RidvanOzturk" target="_blank">
-    <img height="30" width="40" style="display:inline-block" src="https://camo.githubusercontent.com/93815665b47cbae2b3e24ab2b49cf37e1f86fab3fbf926d756eb319e8cf453a2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f636f6465776172732e737667" />
+
+  <a href="https://www.codewars.com/users/RidvanOzturk">
+    <img height="30" width="40" alt="Codewars"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@16.9.0/icons/codewars.svg" />
   </a>
 </div>
+
