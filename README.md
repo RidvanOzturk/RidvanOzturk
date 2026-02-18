@@ -18,26 +18,33 @@
 ---
 
 <div align="center">
-  <h3 align="center">Contact Me:</h3>
+  <h3>Contact Me:</h3>
 
-  <a href="https://www.linkedin.com/in/ridvan-ozturk">
-    <img height="30" width="40" alt="LinkedIn"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@16.9.0/icons/linkedin.svg" />
-  </a>
+  <div style="display:flex; justify-content:center; align-items:center; gap:12px;">
+    <a href="https://www.linkedin.com/in/ridvan-ozturk">
+      <img height="32" width="32" alt="LinkedIn"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@16.9.0/icons/linkedin.svg"
+        style="display:block;" />
+    </a>
 
-  <a href="https://www.instagram.com/ozturkrdvan/">
-    <img height="30" width="40" alt="Instagram"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@16.9.0/icons/instagram.svg" />
-  </a>
+    <a href="https://www.instagram.com/ozturkrdvan/">
+      <img height="32" width="32" alt="Instagram"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@16.9.0/icons/instagram.svg"
+        style="display:block;" />
+    </a>
 
-  <a href="https://medium.com/@ridvan-ozturk">
-    <img height="30" width="40" alt="Medium"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@16.9.0/icons/medium.svg" />
-  </a>
+    <a href="https://medium.com/@ridvan-ozturk">
+      <img height="32" width="32" alt="Medium"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@16.9.0/icons/medium.svg"
+        style="display:block;" />
+    </a>
 
-  <a href="https://www.codewars.com/users/RidvanOzturk">
-    <img height="30" width="40" alt="Codewars"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@16.9.0/icons/codewars.svg" />
-  </a>
+    <a href="https://www.codewars.com/users/RidvanOzturk">
+      <img height="32" width="32" alt="Codewars"
+        src="https://cdn.jsdelivr.net/npm/simple-icons@16.9.0/icons/codewars.svg"
+        style="display:block;" />
+    </a>
+  </div>
 </div>
+
 
