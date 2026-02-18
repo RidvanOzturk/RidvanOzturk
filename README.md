@@ -20,31 +20,26 @@
 <div align="center">
   <h3>Contact Me:</h3>
 
-  <div style="display:flex; justify-content:center; align-items:center; gap:12px;">
-    <a href="https://www.linkedin.com/in/ridvan-ozturk">
-      <img height="32" width="32" alt="LinkedIn"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@16.9.0/icons/linkedin.svg"
-        style="display:block;" />
-    </a>
-
-    <a href="https://www.instagram.com/ozturkrdvan/">
-      <img height="32" width="32" alt="Instagram"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@16.9.0/icons/instagram.svg"
-        style="display:block;" />
-    </a>
-
-    <a href="https://medium.com/@ridvan-ozturk">
-      <img height="32" width="32" alt="Medium"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@16.9.0/icons/medium.svg"
-        style="display:block;" />
-    </a>
-
-    <a href="https://www.codewars.com/users/RidvanOzturk">
-      <img height="32" width="32" alt="Codewars"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@16.9.0/icons/codewars.svg"
-        style="display:block;" />
-    </a>
-  </div>
+  <a href="https://www.linkedin.com/in/ridvan-ozturk">
+    <img align="middle" height="32" width="32" alt="LinkedIn"
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ozturkrdvan/">
+    <img align="middle" height="32" width="32" alt="Instagram"
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@ridvan-ozturk">
+    <img align="middle" height="32" width="32" alt="Medium"
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.codewars.com/users/RidvanOzturk">
+    <img align="middle" height="32" width="32" alt="Codewars"
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codewars.svg" />
+  </a>
 </div>
+
 
 
